@@ -4,7 +4,7 @@
 Contributions to this project are released to the public under the project's open source license.
 
 ## How to Contribute
-Thank you for considering contributing to the Movie-list-API project! Whether you're interested in submitting bug reports, suggesting new features, or improving the documentation, your contributions are highly valued.
+Thank you for considering contributing to the Sentiment_Analysis project! Whether you're interested in submitting bug reports, suggesting new features, or improving the documentation, your contributions are highly valued.
 
 ### To contribute, please follow these steps:
 
